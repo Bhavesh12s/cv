@@ -1,0 +1,73 @@
+body{
+   margin:0px;
+   text-align: center;
+
+}
+h1{
+   margin-top:0px;
+   font-family: 'Smooch', cursive;
+   font-size: 90px;
+}
+h2 {
+  font-family:'Montserrat', sans-serif;
+  font-size: 35px;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container
+{
+  background-color:#A5BECC;
+  position: relative;
+  padding-top: 100px;
+height: 636px;
+
+}
+.tom-and-jerry {
+  size:100px;
+  width: 300px;
+  position: relative;
+right: 500px;
+bottom: 350px;
+}
+.programmer{
+  position: relative;
+  bottom: 450px;
+}
+.tom{
+  width: 300px;
+
+}
+.c{
+
+  width:100px;
+
+}
+.gaming{
+
+  border-radius: 100%;
+  width: 200px;
+}
+.middle-container
+{
+
+}
+.bottom-container
+{
+background-color:#5FD068;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-cloud{
+position:absolute;
+right:350px;
+top: 50px;
+
+}
+.bottom-cloud{
+  position:absolute;
+  left:300px;
+  bottom: 300px;
+
+}
